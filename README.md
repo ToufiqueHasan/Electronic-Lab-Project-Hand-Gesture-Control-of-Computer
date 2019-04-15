@@ -1,6 +1,6 @@
 # Hand Gesture Control of Computer
 
-#Introduction
+## Introduction
 Hand Gesture Control of Computer is a combined project of both Hardware and software developed in Arduino and Python. 
 
 ## Features
